@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Parsa Mohammadi
-- 👀 I’m interested in Machine Learning, Deep Learning, Computer vision, and signal processing
+- 👀 I’m interested in Machine Learning, Natural Language Processing, LLMs, Electronics
 - :closed_book: I’m an Electrical Engineering student at Amirkabir University of Technology
-- 📫 How to reach me: parsamohammadi@aut.ac.ir
+- 📫 How to reach me: parsamohammadi@aut.ac.ir, mhmdi.prs@gmail.com
 - :globe_with_meridians: My website: https://parsam.eu.pythonanywhere.com/
 
 <p align="center">
