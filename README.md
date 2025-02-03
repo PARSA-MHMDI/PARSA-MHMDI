@@ -4,4 +4,4 @@
 - 📫 How to reach me: parsamohammadi@aut.ac.ir
 - :globe_with_meridians: My website: https://parsam.eu.pythonanywhere.com/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![gif](https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif)
