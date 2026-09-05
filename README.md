@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Parsa Mohammadi
-- 👀 I’m interested in Machine Learning, LLMs and Data Systems
-- :closed_book: I’m an Electrical Engineering student at Amirkabir University of Technology
+- 👀 I’m interested in Machine Learning, LLMs and Electronics
+- :closed_book: I’m an Electrical Engineering student at Tehran University
 - 📫 How to reach me: mhmdi.prs@gmail.com
 
 <p align="center">
